@@ -10,32 +10,32 @@
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack
 
-### Linguagens de Programação
+#### Linguagens de Programação
 <p>
   <img src="https://skillicons.dev/icons?i=js,java,c" alt="JavaScript, Java, C" />
 </p>
 
-### Desenvolvimento Web & Backend
+#### Desenvolvimento Web & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,html,css" alt="Node.js, HTML, CSS" />
 </p>
 
-### Cloud & Plataformas
+#### Cloud & Plataformas
 <p>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
   <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
 </p>
 
-### Banco de Dados
+#### Banco de Dados
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mvster1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -48,7 +48,7 @@
 
 ---
 
-## 🎯 Foco Atual
+### 🎯 Foco Atual
 
 ```yaml
 Backend Development:
@@ -69,7 +69,7 @@ Sempre Aprendendo:
 
 ---
 
-## 💼 Experiência
+### 💼 Experiência
 
 - **🔧 Backend Development** - Construção de aplicações robustas e escaláveis
 - **🔗 API Integrations** - Desenvolvimento e consumo de APIs RESTful
@@ -78,7 +78,7 @@ Sempre Aprendendo:
 
 ---
 
-## 📫 Conecte-se Comigo
+### 📫 Conecte-se Comigo
 
 <div align="center">
   
