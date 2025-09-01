@@ -1,47 +1,95 @@
-# 👋 Olá, sou o Pedro  
+# Pedro Afonso M. S. Menin
+**Backend Developer** | **Salesforce Specialist**
 
-Desenvolvedor **Backend** apaixonado por criar soluções escaláveis, bem estruturadas e focadas em performance.  
-Atualmente expandindo conhecimentos em **Salesforce Development** e integrando tecnologia a processos de negócio.  
+<div align="center">
+  <p>
+    Desenvolvedor Backend apaixonado por criar soluções escaláveis e bem arquitetadas.<br>
+    Especialista em integrações, APIs e atualmente expandindo expertise no ecossistema Salesforce.
+  </p>
+</div>
 
 ---
 
-## 🚀 Tecnologias e Linguagens  
+## 🛠️ Stack Tecnológica
 
-<p align="left">
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <!-- Salesforce -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="40" height="40"/>
-  <!-- Apex (usando mesmo ícone do Salesforce) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Apex" width="40" height="40"/>
-  <!-- SQL (MySQL como referência) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+### Linguagens de Programação
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,c" alt="JavaScript, Java, C" />
+</p>
+
+### Desenvolvimento Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,html,css" alt="Node.js, HTML, CSS" />
+</p>
+
+### Cloud & Plataformas
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+</p>
+
+### Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
 ---
 
-## 📈 Estatísticas do GitHub  
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvster1&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvster1&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mvster1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvster1&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvster1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
 ---
 
-## 📚 Sobre mim  
+## 🎯 Foco Atual
 
-- 🎯 Foco em desenvolvimento backend  
-- 🔗 Experiência em integrações e APIs  
-- ☁️ Atualmente explorando soluções no ecossistema Salesforce  
-- 🚀 Sempre aprendendo novas tecnologias e boas práticas  
+```yaml
+Backend Development:
+  - Arquiteturas escaláveis e performáticas
+  - Design de APIs RESTful
+  - Integração entre sistemas
+
+Salesforce Ecosystem:
+  - Desenvolvimento em Apex
+  - Customizações e automações
+  - Integrações com sistemas externos
+  
+Sempre Aprendendo:
+  - Melhores práticas de desenvolvimento
+  - Padrões de arquitetura
+  - Novas tecnologias do mercado
+```
+
+---
+
+## 💼 Experiência
+
+- **🔧 Backend Development** - Construção de aplicações robustas e escaláveis
+- **🔗 API Integrations** - Desenvolvimento e consumo de APIs RESTful
+- **☁️ Salesforce Platform** - Customizações, automações e desenvolvimento Apex
+- **📊 Database Design** - Modelagem e otimização de banco de dados
+
+---
+
+## 📫 Conecte-se Comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mvster1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
