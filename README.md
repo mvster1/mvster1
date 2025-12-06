@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pedro Afonso M. S. Menin
+# pedro menin
 **Backend Developer** | **Salesforce Specialist**
 
 Desenvolvedor Backend apaixonado por criar soluções escaláveis e bem arquitetadas.<br>
