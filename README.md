@@ -27,4 +27,6 @@ contato
 - github: https://github.com/mvster1
 - inbox: pedroafonsomenin@gmail.com
 
+---
+
 "the more code lines you have removed, the more progress you have made" — suckless.org
