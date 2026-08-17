@@ -1,18 +1,22 @@
-pedro menin
-===========
+pedro a. mënin
+==============
 
 backend developer | salesforce specialist
 
-desenvolvedor backend com foco em solucoes escalaveis e bem arquitetadas.
-especialista em integracoes, apis e salesforce.
+simplicidade. funcionalidade. escalabilidade.
 
 stack
 =====
 
-- linguagens: javascript, java, c
-- web/backend: nodejs, html, css
-- cloud/plataformas: salesforce, apex
-- banco de dados: mysql
+- javascript
+- java
+- c
+- nodejs
+- html
+- css
+- salesforce
+- apex
+- mysql
 
 contato
 =======
