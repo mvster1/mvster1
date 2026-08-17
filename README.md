@@ -12,8 +12,7 @@ stack
 - web: html, css, js, tailwind
 - java
 - kotlin
-- mysql
-- aws
+- db: mysql, mongodb
 
 contato
 -------
