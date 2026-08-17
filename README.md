@@ -1,21 +1,21 @@
 pedro a. mënin
+-----
 
 linux. backend. web. salesforce.
 
-simplicidade. funcionalidade. escalabilidade.
+funcionalidade. escalabilidade. simplicidade
 
 stack
 -----
 
 - javascript
 - java
-- c
-- nodejs
-- html
-- css
+- c, c++, c#
+- node
 - salesforce
 - apex
 - mysql
+- aws
 
 contato
 -------
@@ -24,4 +24,4 @@ contato
 - github: https://github.com/mvster1
 - email: pedroafonsomenin@gmail.com
 
-"code is like humor. when you have to explain it, it's bad." - cory house
+"the more code lines you have removed, the more progress you have made" - suckless.org
