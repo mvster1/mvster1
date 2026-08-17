@@ -24,7 +24,6 @@ contato
 -------
 
 - linkedin: https://www.linkedin.com/in/pedro-afonso-m-s-menin-328030356/
-- github: https://github.com/mvster1
 - inbox: pedroafonsomenin@gmail.com
 
 ............................
