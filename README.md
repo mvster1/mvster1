@@ -10,8 +10,8 @@ stack
 
 - salesforce: apex, lwc, admin
 - web: html, css, js, tailwind
-- java
-- kotlin
+- lang: c, java, kotlin
+- scripting: lua, bash
 - db: mysql, mongodb
 
 contato
