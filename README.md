@@ -9,15 +9,10 @@ especialista em integracoes, apis e salesforce.
 stack
 =====
 
-linguagens: javascript, java, c
-web/backend: nodejs, html, css
-cloud/plataformas: salesforce, apex
-banco de dados: mysql
-
-github
-======
-
-https://github.com/mvster1
+- linguagens: javascript, java, c
+- web/backend: nodejs, html, css
+- cloud/plataformas: salesforce, apex
+- banco de dados: mysql
 
 foco atual
 ==========
@@ -42,16 +37,16 @@ aprendizado continuo:
 experiencia
 ===========
 
-backend development - aplicacoes robustas e escalaveis
-api integrations - desenvolvimento e consumo de apis restful
-salesforce platform - customizacoes, automacoes e desenvolvimento em apex
-database design - modelagem e otimizacao de dados
+- backend development - aplicacoes robustas e escalaveis
+- api integrations - desenvolvimento e consumo de apis restful
+- salesforce platform - customizacoes, automacoes e desenvolvimento em apex
+- database design - modelagem e otimizacao de dados
 
 contato
 =======
 
-linkedin: https://www.linkedin.com/in/pedro-afonso-m-s-menin-328030356/
-github: https://github.com/mvster1
-email: pedroafonsomenin@gmail.com
+- linkedin: https://www.linkedin.com/in/pedro-afonso-m-s-menin-328030356/
+- github: https://github.com/mvster1
+- email: pedroafonsomenin@gmail.com
 
 "code is like humor. when you have to explain it, it's bad." - cory house
