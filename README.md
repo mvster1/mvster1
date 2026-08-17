@@ -1,9 +1,11 @@
 pedro a. mënin
 -----
 
+engenheiro de software.
+
 linux. backend. web. salesforce.
 
-funcionalidade. escalabilidade. simplicidade
+simplicidade. usabilidade. escalabilidade.
 
 stack
 -----
