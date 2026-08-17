@@ -19,6 +19,7 @@ contato
 -------
 
 - linkedin: https://www.linkedin.com/in/pedro-afonso-m-s-menin-328030356/
+- trailhead: https://www.salesforce.com/trailblazer/dxpgco4yy1mrksvo03
 - inbox: pedroafonsomenin@gmail.com
 
 ............................
