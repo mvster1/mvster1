@@ -14,7 +14,7 @@ stack
 - web: html, css, js, tailwind
 - lang: c, java, kotlin
 - scripting: lua, bash
-- db: mysql, mongodb
+- db: soql, mysql, mongodb
 
 contato
 -------
