@@ -14,34 +14,6 @@ stack
 - cloud/plataformas: salesforce, apex
 - banco de dados: mysql
 
-foco atual
-==========
-
-```yaml
-backend:
-  - arquiteturas escalaveis e performaticas
-  - design de apis restful
-  - integracao entre sistemas
-
-salesforce:
-  - desenvolvimento em apex
-  - customizacoes e automacoes
-  - integracoes com sistemas externos
-
-aprendizado continuo:
-  - melhores praticas de desenvolvimento
-  - padroes de arquitetura
-  - novas tecnologias do mercado
-```
-
-experiencia
-===========
-
-- backend development - aplicacoes robustas e escalaveis
-- api integrations - desenvolvimento e consumo de apis restful
-- salesforce platform - customizacoes, automacoes e desenvolvimento em apex
-- database design - modelagem e otimizacao de dados
-
 contato
 =======
 
