@@ -1,7 +1,7 @@
 pedro a. mënin
 ==============
 
-backend developer | salesforce specialist
+linux. backend. web. salesforce.
 
 simplicidade. funcionalidade. escalabilidade.
 
