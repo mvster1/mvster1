@@ -1,57 +1,57 @@
 pedro menin
 ===========
 
-Backend Developer | Salesforce Specialist
+backend developer | salesforce specialist
 
-Desenvolvedor Backend apaixonado por criar soluções escaláveis e bem arquitetadas.
-Especialista em integrações, APIs e atualmente expandindo expertise no ecossistema Salesforce.
+desenvolvedor backend com foco em solucoes escalaveis e bem arquitetadas.
+especialista em integracoes, apis e salesforce.
 
-Stack
+stack
 =====
 
-Linguagens de Programação: javascript, java, c
-Desenvolvimento Web & Backend: nodejs, html, css
-Cloud & Plataformas: salesforce, apex
-Banco de Dados: mysql
+linguagens: javascript, java, c
+web/backend: nodejs, html, css
+cloud/plataformas: salesforce, apex
+banco de dados: mysql
 
-GitHub Analytics
-================
+github
+======
 
 https://github.com/mvster1
 
-Foco Atual
+foco atual
 ==========
 
 ```yaml
-Backend Development:
-  - Arquiteturas escaláveis e performáticas
-  - Design de APIs RESTful
-  - Integração entre sistemas
+backend:
+  - arquiteturas escalaveis e performaticas
+  - design de apis restful
+  - integracao entre sistemas
 
-Salesforce Ecosystem:
-  - Desenvolvimento em Apex
-  - Customizações e automações
-  - Integrações com sistemas externos
+salesforce:
+  - desenvolvimento em apex
+  - customizacoes e automacoes
+  - integracoes com sistemas externos
 
-Sempre Aprendendo:
-  - Melhores práticas de desenvolvimento
-  - Padrões de arquitetura
-  - Novas tecnologias do mercado
+aprendizado continuo:
+  - melhores praticas de desenvolvimento
+  - padroes de arquitetura
+  - novas tecnologias do mercado
 ```
 
-Experiência
+experiencia
 ===========
 
-Backend Development - Construção de aplicações robustas e escaláveis
-API Integrations - Desenvolvimento e consumo de APIs RESTful
-Salesforce Platform - Customizações, automações e desenvolvimento Apex
-Database Design - Modelagem e otimização de banco de dados
+backend development - aplicacoes robustas e escalaveis
+api integrations - desenvolvimento e consumo de apis restful
+salesforce platform - customizacoes, automacoes e desenvolvimento em apex
+database design - modelagem e otimizacao de dados
 
-Conecte-se Comigo
-=================
+contato
+=======
 
-LinkedIn: https://www.linkedin.com/in/pedro-afonso-m-s-menin-328030356/
-GitHub: https://github.com/mvster1
-Email: pedroafonsomenin@gmail.com
+linkedin: https://www.linkedin.com/in/pedro-afonso-m-s-menin-328030356/
+github: https://github.com/mvster1
+email: pedroafonsomenin@gmail.com
 
-"Code is like humor. When you have to explain it, it's bad." - Cory House
+"code is like humor. when you have to explain it, it's bad." - cory house
