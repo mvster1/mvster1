@@ -8,13 +8,8 @@ funcionalidade. escalabilidade. simplicidade
 stack
 -----
 
-- salesforce
-- apex
-- soql
-- bashscript
-- c, c++, c#
-- javascript
-- node
+- salesforce: apex, lwc, admin
+- web: html, css, js, tailwind
 - java
 - kotlin
 - mysql
