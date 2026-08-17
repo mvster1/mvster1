@@ -1,12 +1,11 @@
 pedro a. mënin
-==============
 
 linux. backend. web. salesforce.
 
 simplicidade. funcionalidade. escalabilidade.
 
 stack
-=====
+-----
 
 - javascript
 - java
@@ -19,7 +18,7 @@ stack
 - mysql
 
 contato
-=======
+-------
 
 - linkedin: https://www.linkedin.com/in/pedro-afonso-m-s-menin-328030356/
 - github: https://github.com/mvster1
