@@ -1,6 +1,8 @@
 pedro a. mënin
 -----
 
+![o mago](wiz.gif)
+
 engenheiro de software.
 
 linux. backend. web. salesforce.
