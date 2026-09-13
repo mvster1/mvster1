@@ -5,7 +5,7 @@ pedro a. mënin
 
 engenheiro de software.
 
-linux. backend. web. salesforce.
+salesforce. web. linux. backend.
 
 simplicidade. usabilidade. escalabilidade.
 
